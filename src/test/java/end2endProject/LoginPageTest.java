@@ -36,6 +36,9 @@ public class LoginPageTest extends BaseConfiguration {
 		log.info("Made changes 2");
 		log.info("Made changes 3");
 		log.info("Made changes 4");
+		
+		//changes from the master user - abishek from india
+		log.info("GIT push and pull changes demo");
 	}
 
 	@Test
