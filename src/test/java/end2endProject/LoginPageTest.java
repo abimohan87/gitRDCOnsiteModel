@@ -32,6 +32,10 @@ public class LoginPageTest extends BaseConfiguration {
 		log.info(">>>> Url details retrived from property file");
 		driver.get(url);
 		log.info(">>>> URL opened in the browser");
+		
+		log.info("Made changes 2");
+		log.info("Made changes 3");
+		log.info("Made changes 4");
 	}
 
 	@Test
